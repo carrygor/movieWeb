@@ -1,0 +1,22 @@
+{
+  "name": "carry",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "nodejs.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "moment": "^2.16.0",
+    "mongoose": "latest",
+    "underscore": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "carry",
+  "license": "ISC"
+}
